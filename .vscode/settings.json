@@ -1,0 +1,12 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "css.validate": true,
+  "less.validate": false,
+  "scss.validate": true,
+  "stylelint.validate": ["css", "scss"],
+  "eslint.useFlatConfig": true,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.format.insertSpaceAfterConstructor": true,
+  "typescript.format.enable": true,
+  "eslint.enable": true
+}
