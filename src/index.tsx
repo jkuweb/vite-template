@@ -31,7 +31,7 @@ if (rootElement) {
 				</table>
 			</div>
 			<div className={styles.container}>
-				<h1 className={styles.background}> VITE TEMPLATE</h1>
+				<h1 className={styles.background}>VITE TEMPLATE</h1>
 				<App />
 			</div>
 		</>
