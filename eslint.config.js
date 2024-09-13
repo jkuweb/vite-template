@@ -100,6 +100,9 @@ export default [
 				{ blankLine: 'always', prev: '*', next: 'return' },
 			],
 
+			// prettier
+			"space-before-function-paren": ["always"],
+
 			// plugins
 			'@typescript-eslint/no-unused-vars': 'off',
 			'@typescript-eslint/no-explicit-any': ['warn'],
