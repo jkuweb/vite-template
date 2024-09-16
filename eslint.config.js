@@ -101,7 +101,7 @@ export default [
 			],
 
 			// prettier
-			"space-before-function-paren": ["always"],
+			"space-before-function-paren": 'off',
 
 			// plugins
 			'@typescript-eslint/no-unused-vars': 'off',
